@@ -36,8 +36,8 @@ An intelligent system diagnostic tool that probes your hardware configuration (C
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/plamen5rov/LLM-Matcher-with-Google-AI-Studio.git
-   cd LLM-Matcher-with-Google-AI-Studio
+   git clone https://github.com/plamen5rov/llm-matcher.git
+   cd llm-matcher
    ```
 
 2. **Install dependencies:**
